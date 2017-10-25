@@ -83,5 +83,6 @@ void print_factorial() {
      */
     printf("Factorial of 5 is: %d\n", factorial(5));
     printf("Factorial of 0 is: %d\n", factorial(0));
+    printf("Factorial of -1 is: %d\n", factorial(-1));
 }
 

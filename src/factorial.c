@@ -4,6 +4,7 @@
  * knows what the correct types of all functions and variables are even before
  * their definitions appear. This prevents ordering issues during compilation.
  */
+#include <stdio.h>
 #include "factorial.h"
 
 /* Definition for "factorial"
@@ -12,6 +13,11 @@
 int factorial(int n) {
     /* By convention in C, all local variables must be type-defined at the top
      * of each function. This includes all iteration dummy variables. */
+    if (n < 0)
+    {
+	printf("A negative factorial is not defined!\n");
+        return 0;
+    }
     int fac = 1;
     
     while (n > 0) {
