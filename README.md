@@ -1,8 +1,12 @@
 # CS510 CW 9
 
-**Author(s):** **CHANGEME**
+Name: Julie Gardner-Hoag, Logan Gantner <br>
+Student ID: 2299636, 2307470 <br>
+Email: gardnerh@chapman.edu, gantner@chapman.edu <br>
+Course: CS510 Fall 2017 <br>
+Assignment: Classwork 9 <br>
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-09-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-09-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-09-logan-julie.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-09-logan-julie)
 
 ## Specification
 
@@ -38,9 +42,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
-
-**CHANGEME**
+This classwork overall wasn't too challenging. It took us a little while to figure out how to make and run our files. The changes to the algorithm were simple. This was a simple intro to C.
 
 ## Honor Pledge
 
@@ -51,4 +53,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Julie Gardner-Hoag, Logan Gantner
