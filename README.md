@@ -42,7 +42,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-This classwork overall wasn't too challenging. It took us a little while to figure out how to make and run our files. The changes to the algorithm were simple. This was a simple intro to C.
+This classwork overall wasn't that challenging. It took us a little while to figure out how to make and run our files. The changes to the algorithm were simple. This was a simple intro to C.
 
 ## Honor Pledge
 
